@@ -1,0 +1,28 @@
+name: 'Brooklyn Cannabis Co. '
+favicon: null
+layout_spectrum: 0.7701995477546006
+typography_spectrum: 0.8051927452906966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4706258273217827
+  lightness: 0.7097659083083272
+  saturation: 0.6227222674060613
+  rhythmicContrast: 0.9993243415374309
+purpose: []
